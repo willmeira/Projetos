@@ -1,0 +1,9 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Teoria Coalescente}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Metodologia}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Exemplos}{7}{0}{1}
+\beamer@sectionintoc {2}{Habitat Estudado}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{Regi\IeC {\~a}o}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Esp\IeC {\'e}cies}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{Beija-Flor}{16}{0}{2}
