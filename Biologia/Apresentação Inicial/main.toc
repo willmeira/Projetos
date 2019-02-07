@@ -1,4 +1,4 @@
-\babel@toc {portuguese}{}
+\babel@toc {nil}{}
 \beamer@sectionintoc {1}{Teoria Coalescente}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
 \beamer@subsectionintoc {1}{2}{Metodologia}{5}{0}{1}
